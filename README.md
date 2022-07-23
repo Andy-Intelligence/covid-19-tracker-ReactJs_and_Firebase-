@@ -1,5 +1,5 @@
 # Hosting URL: https://covid-19-tracker-a9326.web.app
-# video: 
+# video: https://youtu.be/RIwI3QA-4gw
 
 # Getting Started with Create React App
 
